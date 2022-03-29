@@ -5,7 +5,7 @@ services:
     image: drone/drone:2
     container_name: drone-server
     ports:
-      - 8081:80
+      - 80:80
     volumes:
       - /var/lib/drone:/var/lib/drone/
     restart: always
