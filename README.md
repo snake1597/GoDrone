@@ -1,4 +1,4 @@
 # GoDrone
 
 # Introduction 
-&emsp;&emsp;用Drone架設CI的pipeline。
+&emsp;&emsp;利用Drone架設CI/CD的server。
